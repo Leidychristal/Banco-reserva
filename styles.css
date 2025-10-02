@@ -1,0 +1,26 @@
+
+body {
+  background: #f3f5f7;
+  color: #222;
+  padding: 24px;
+}
+
+.logo {
+  width: 96px;       
+  height: auto;
+  display: block;
+}
+
+.titles h1 { 
+font-size: 20px; 
+margin-bottom: 4px; }
+
+.titles h2 { 
+font-size: 14px;
+ color: #1c7fc0; }
+
+.form-actions input[type="submit"]:hover  { 
+    opacity: 0.95;
+    
+}
+
